@@ -1,2 +1,2 @@
-# google-map-shortcode
+# google-map-shortcode-plugin
 Google Map Shortcode
